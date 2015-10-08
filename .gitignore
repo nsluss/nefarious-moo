@@ -1,0 +1,4 @@
+node_modules
+generator
+public/build
+public/bower_components
